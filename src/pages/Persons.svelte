@@ -16,7 +16,7 @@
     }
 </script>
 
-<h1>This is the list of all persons</h1>
+<h1>This is the list of persons</h1>
 
 <table class="table">
     <thead>
